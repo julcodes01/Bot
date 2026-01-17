@@ -1,1 +1,1 @@
-# Job scraping functionality
+# Report generation functionality
