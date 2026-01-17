@@ -1,1 +1,1 @@
-# Email functionality
+# Job scraping functionality
